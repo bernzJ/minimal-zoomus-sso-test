@@ -1,0 +1,12 @@
+{
+  "auth0": {
+    "domain": "",
+    "clientId": "",
+    "audience": ""
+  },
+  "zoom": {
+    "meetingNumber": "",
+    "apiKey": "",
+    "apiSecret": ""
+  }
+}
